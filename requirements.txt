@@ -1,0 +1,8 @@
+lxml
+cssselect
+pandas
+bizdays
+beautifulsoup4
+scraperwiki
+requests
+requests-html
